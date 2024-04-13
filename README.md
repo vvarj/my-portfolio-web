@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# My Portfolio Website
+
+Welcome to my portfolio website! This site showcases my skills, projects, and experience.
+
+## Table of Contents
+
+- [About](#about)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Project Structure](#project-structure)
+- [License](#license)
+
+## About
+
+This portfolio website serves as a platform to showcase my work, skills, and experiences as a Node.Js deveoper currently skilled as MERN stack developer.
+
+## Technologies Used
+
+List the technologies and frameworks used to build your portfolio website, for example:
+- Next.js
+- React
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Aceternity UI](https://ui.aceternity.com/)
 
 ## Getting Started
 
-First, run the development server:
+To run this website locally:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1. Clone this repository.
+2. Navigate to the project directory.
+3. Install dependencies using `npm install`.
+4. Start the development server with `npm run dev`.
+5. Visit `http://localhost:3000` in your browser to view the website.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Project Structure
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+You can find out the main parts of the projects such as pages in app folder inside scr folder. Utils folder is for utility and other helping functions , components for the reusable components in the site.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+I have added my initial set of design or skelton of the files also here. You can find it out in the assets folder.
 
-## Learn More
+## License
 
-To learn more about Next.js, take a look at the following resources:
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+You can freely use and modify this project for personal or commercial purposes. However, you must include the original license and copyright notice in any copy of the software/source.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+---
+© V V Arjun
