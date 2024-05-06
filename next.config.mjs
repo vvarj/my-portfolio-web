@@ -1,4 +1,9 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {};
+const nextConfig = {
+    //  distDir: 'build',
+    images: {
+        domains: ['images.unsplash.com'],
+    },
+};
 
 export default nextConfig;
