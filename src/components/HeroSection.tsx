@@ -54,7 +54,7 @@ function HeroSection() {
             Download CV
           </Button>
         </div>
-        <p className="text-yellow-600">Tech Stack</p>
+        <p className="text-yellow-600 mt-4 text-2xl underline">Tech Stack</p>
         <div className="skill-logos grid grid-cols-3 gap-3 mt-5">
           <div className="text-yellow-500">
             <p className="text-xl">Javascript</p>
