@@ -10,6 +10,12 @@ interface Projects {
 
 const PROJECTS: Projects[] = [
   {
+    title: "Authentication API",
+    description:
+      "REST API for User authentication, JWT token, acceess token ,refresh token, login,signup, logout features ,middlwares,error handling, datbase connection (MongoDB), validators. Production grade REST API app, Folder structure maintained.",
+    url: "https://github.com/vvarj/authentication-api",
+  },
+  {
     title: "Portfolio Website",
     description:
       "Created Personal portfolio website using NextJs app routing. Technology used : Next.js, Typescript , ReactJs, Tailwind CSS",
